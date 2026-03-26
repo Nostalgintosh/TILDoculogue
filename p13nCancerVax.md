@@ -1,5 +1,6 @@
 # ChatGPT and AlphaFold Help Design Personalized Vaccine for Dog with Cancer
 ### By TheScientist, Written by Rebecca Roberts, PhD on Mar 18, 2026
+  -  GenAI  -  mRNA  -  Cancer  -  Vaccine
 
 https://www.the-scientist.com/chatgpt-and-alphafold-help-design-personalized-vaccine-for-dog-with-cancer-74227
 Five Minutes
