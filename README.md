@@ -3,4 +3,4 @@
 
 I'm using a ROG Zephyrus G4 as my Fedora Kinoit as by my coding and AI computer.
 
-I am trying **Odysseus by PewDiePie**
+I am trying **Odysseus by PewDiePie** and local hosted LMs
