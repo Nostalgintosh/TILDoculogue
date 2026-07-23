@@ -3,7 +3,7 @@
 Make sure that you leave 7 lines blink, and on the 8th line most of the time write `INDENTIFICATION DIVISION.` on the 13th Collum.
 - **NOTE:** ALL OF THE WRITING MUST BE ON Area B AND THE TWO NUMBERS MUST BE AT Area A.
 
-The are reserve words like `READT`, `SET`, `DATA`, `END`, `FILE`, `UNTIL` & `IF` as example, so do not use the unless you `READY` to use them.
+The are reserve words like `READT`, `SET`, `DATA`, `END`, `FILE`, `UNTIL` & `IF` as example, so do not use them unless you `READY` to use them.
 ```cbl
 
 
