@@ -3,4 +3,4 @@
 
 I'm using My Nostalgintosh Classic Computer as my Fedora Kinoit as by my coding and AI computer.
 
-I am organizing by Operating System, Software, Hardware and Network.
+I am organizing by Operating System, Software, Hardware, Programming and Network.
