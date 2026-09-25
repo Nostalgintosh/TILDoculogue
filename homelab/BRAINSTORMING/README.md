@@ -45,7 +45,9 @@ This is what your ERF protocol does. When the Reactive Node processes an "engram
 the ERF protocol acts as the legislative bridge. It strips away the unstructured context, formats the data 
 into a strict 80-byte fixed-length record, and submits it to the mainframe.
 
-AUDITING THE SYSTEM
+### AUDITING THE SYSTEM
+
+
 
 ``` Python
 import os
