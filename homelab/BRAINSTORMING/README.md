@@ -16,6 +16,15 @@ Legal systems like the Napoleonic Code, Swiss Civil Code, and Louisiana law are 
 They attempt to codify every possible scenario into a strict, written constitution. 
 Judges do not create laws; they rigidly apply the predefined code.
 
+EXAMPLE WILL BE
+```cobol
+01  ENGRAM-RECORD.
+           05  ENGRAM-ID         PIC X(10).  *> Alphanumeric, exactly 10 chars
+           05  SEVERITY-LEVEL    PIC 9(02).  *> Numeric, exactly 2 digits, zero-padded
+           05  EVENT-DESC        PIC X(30).  *> Alphanumeric, exactly 30 chars
+           05  REACTION-CODE     PIC X(04).  *> Alphanumeric, exactly 4 chars
+```
+
   -  The *IT Equivalent*: This is your z/OS Mainframe. Systems like *COBOL, DB2, & RACF* (Resource Access Control Facility) operate **purely on Civil Law.**
 
   -  The Behavior: The mainframe does not guess, interpret, or hallucinate. It executes the exact JCL and COBOL procedures written in its "constitution." If an incoming transaction (a legal case) does not match the predefined data division (the statute), the mainframe throws an ABEND (abnormal end)—it completely rejects the case.
