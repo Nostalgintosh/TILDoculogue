@@ -121,8 +121,8 @@ if __name__ == "__main__":
 The Architectural Translations
 The "Engram": Any file ending in .engram. It is a raw JSON crash dump or corrupted telemetry log.
 
-           -           The "Auditing" Phase: The try/except block. It reads the chaos and uses Python's string manipulation to force it into the strict PIC clauses expected by the COBOL Data Division.
+-  The "Auditing" Phase: The try/except block. It reads the chaos and uses Python's string manipulation to force it into the strict PIC clauses expected by the COBOL Data Division.
 
-           -           "Garbage Collection": The os.remove(filepath) command. By unlinking the file, the operating system reclaims those disk sectors. The chaos is permanently deleted from the edge environment.
+-  "Garbage Collection": The os.remove(filepath) command. By unlinking the file, the operating system reclaims those disk sectors. The chaos is permanently deleted from the edge environment.
 
-           -           The "Clear" State: When the script runs and the directory is empty, the system is temporarily "Clear"—until the edge inevitably encounters new friction and generates more logs.
+-  The "Clear" State: When the script runs and the directory is empty, the system is temporarily "Clear"—until the edge inevitably encounters new friction and generates more logs.
