@@ -9,3 +9,7 @@ When a developer or a corporation like IBM submits a piece of code to the kernel
 As a result of this Linus Torvalds owns the copyright for the code that he personally writes, and hold the copyright for the **COLLECTIVE WORK**
 THE CURATED ASSEMBLY OF THE KERNEL AS A WHOLE,
 But he doesn't own the individual files and lines of code written by the thousand of other contributors.
+
+In Linux there are different types of distributions or *Distro* for short. Here are the example of each distro
+- Enterprise Distro: This is for enterprise business
+- Community Distro: This personal use and can be user friendly.
