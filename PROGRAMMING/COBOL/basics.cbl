@@ -1,10 +1,3 @@
-
-
-
-
-
-
-            
             IDENTIFICATION DIVISION.
             PROGRAM-ID. INTEFER-EXAMPLE.
 
