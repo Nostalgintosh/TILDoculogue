@@ -14,3 +14,7 @@ Execute an atomic transaction to strip the legacy dependencies at the exact mome
 ```powershell
 rpm-ostree rebase fedora:fedora/44/x86_64/kinoite --uninstall=rpmfusion-free-release --uninstall=rpmfusion-nonfree-release
 ```
+and enter the password. From then you will need to reboot your computer from there using the flowing command
+```powershell
+systemctl reboot
+```
