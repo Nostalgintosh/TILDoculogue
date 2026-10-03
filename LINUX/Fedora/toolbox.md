@@ -1,6 +1,6 @@
 # TOOLBOX
 ## THIS IS THE NATIVE FOR FEDORA.
-The best practice is to create toolbox be for installed the program you will need to work.
+The best practice is to create toolbox before installed the program you will need to work. This is to contain the software and organizes them as well.
 We will install [ChatGPT](https://learn.chatgpt.com/docs/linux/linux-app) in Fedora Kinote using the `.rpm` in the downloads folder.
 ### FRIST CREATE THE TOOLBOX
 Create the toolbox by writing
