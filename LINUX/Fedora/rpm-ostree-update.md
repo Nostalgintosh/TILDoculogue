@@ -18,3 +18,4 @@ Then enter the password, from then you will need to reboot your computer from th
 ```powershell
 systemctl reboot
 ```
+Then you will add the ChatGPT from the native toolbox in the toolbox.md file.
